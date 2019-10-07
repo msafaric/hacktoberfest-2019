@@ -334,3 +334,8 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Martina Safaric](https://github.com/msafaric)
+- Place: Cakovec, Croatia
+- Bio: Javascript developer
+- GitHub: [msafaric](https://github.com/msafaric)
+
